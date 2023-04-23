@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW-4-19", "HW-4-19\HW-4-19.csproj", "{4A3422EF-66B6-4065-8D5D-2C7D6C9EC8CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAuthentication.Data", "WebAuthentication.Data\WebAuthentication.Data.csproj", "{CB11A8B6-4075-47B4-81EA-23C708E51964}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A3422EF-66B6-4065-8D5D-2C7D6C9EC8CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A3422EF-66B6-4065-8D5D-2C7D6C9EC8CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A3422EF-66B6-4065-8D5D-2C7D6C9EC8CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A3422EF-66B6-4065-8D5D-2C7D6C9EC8CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB11A8B6-4075-47B4-81EA-23C708E51964}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB11A8B6-4075-47B4-81EA-23C708E51964}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB11A8B6-4075-47B4-81EA-23C708E51964}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB11A8B6-4075-47B4-81EA-23C708E51964}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC279A18-5948-407A-AE09-406878230F4C}
+	EndGlobalSection
+EndGlobal
